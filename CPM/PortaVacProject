@@ -1,0 +1,50 @@
+A
+Develop Product Design
+-
+6
+
+B
+Plan Market Research
+-
+2
+
+C
+Prepare Routing
+A
+3
+
+D
+Build Proto Type Model
+A
+5
+
+E
+Prepare Marketing Brochure
+A
+3
+
+F
+Prepare Cost Estimates
+c
+2
+
+G
+Do Preliminary Product Testing
+D
+3
+
+H
+Complete Market Survey
+B,E
+4
+
+I
+Prepare Pricing and Forecast report
+H
+2
+
+J
+Prepare Final Report
+F,G,I
+2
+

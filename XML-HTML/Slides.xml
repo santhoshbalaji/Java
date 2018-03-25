@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Slides pptname = "java.net">
+  <Slide className = "InetAddress">
+    <Heading>Methods</Heading>
+    <Bullet>Public static getByName(String)</Bullet>
+    <Bullet>public InetAddress [ ]  getAllByName(String)</Bullet>
+    <Bullet>public InetAddress  getLocalHost( ) </Bullet>
+  </Slide>
+ <Slide className = "Socket">
+    <Heading>Constructors</Heading>
+    <Bullet>public Socket(String ip, int port)</Bullet>
+    <Bullet>public Socket(String ip, int port, boolean TCPorUDP)</Bullet>
+    <Bullet>public Socket(InetAddress ia, int port)</Bullet>
+  </Slide>
+  <Slide className = "UDP Sockets">
+    <Heading>UDP protocol</Heading>
+    <Bullet>connectionless</Bullet>
+    <Bullet>unreliable</Bullet>
+    <Bullet>NoClientServer but SendersAndReceivers</Bullet>
+  </Slide>
+  <Slide className = "InetAddress">
+    <Heading>Methods</Heading>
+    <Bullet>Public static getByName(String)</Bullet>
+    <Bullet>public InetAddress [ ]  getAllByName(String)</Bullet>
+    <Bullet>public InetAddress  getLocalHost( ) </Bullet>
+  </Slide>
+ <Slide className = "Socket">
+    <Heading>Constructors</Heading>
+    <Bullet>public Socket(String ip, int port)</Bullet>
+    <Bullet>public Socket(String ip, int port, boolean TCPorUDP)</Bullet>
+    <Bullet>public Socket(InetAddress ia, int port)</Bullet>
+  </Slide>
+  <Slide className = "UDP Sockets">
+    <Heading>UDP protocol</Heading>
+    <Bullet>connectionless</Bullet>
+    <Bullet>unreliable</Bullet>
+    <Bullet>NoClientServer but SendersAndReceivers</Bullet>
+  </Slide>
+</Slides> 

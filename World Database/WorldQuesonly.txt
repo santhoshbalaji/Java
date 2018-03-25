@@ -1,0 +1,36 @@
+1	Select all cities from India.
+2	Select the number of cities in each country.
+3	Give the top 5 cities w.r.t. population
+4	Select the country with maximum density (population/area)
+5	Get the number of people in India living in villages.
+6	For each country give the density of population
+7	Get the top 5 most densely populated countries.
+8	In what district Chennai city  is situated?
+9	How many cities are there in the district in which Mumbai is situated?
+10	Select the number of cities in each district in India.
+11	Select the top five countries w.r.t. gdp
+12	Select the maximum populated cities in the top five countries with maximum gdp
+13	Select the capital of the country in which mumbai city is situated.
+14	How many distinct Government forms are there?
+15	How many countries are there in each distinct Government form?
+16	Give the names of those countries in which English is the official language (names not code)
+17	What are all the official languages of India?
+18	What is the language that is spoken most in India?
+19	What are all the countries in which the official language of india is also spoken?
+20	Select the countries and languages where more than 35% of the people speak that language in that country.
+21	List all of the official languages spoken around the world in reverse alphabetical order.
+22	What countries in the world have the word Republic as part of their name?
+23	List all countries that are not in the continent "Africa".
+24	Which countries have a GNP between $10,000 AND $50,000?
+25	List the full names of all countries where English is spoken as an official language
+26	List all of the languages that are spoken in France, as well as the expected number of speakers for that language (population * percentage)
+27	Write a query which shows a count of  countries and the average population per continent
+28	Show the name for the countries that have a population of at least 200 million
+29	Which country has the largest population in Europe?
+30	What are the cities in Thailand?	
+31	List the full names of all countries where German is spoken as an official language.
+32	List the countries whose names start with either A or B.
+33	What countries have a monarchy as their form of government?
+34	Which countries have the same local name as their official name? Show them in sorted order.
+35	List all continents and all regions within them.
+36	What countries have a life expectancy of 78 years or more?

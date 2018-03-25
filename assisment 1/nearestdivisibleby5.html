@@ -1,0 +1,32 @@
+<html>
+	<head>
+		<title>My First Javascript</title>
+	</head>
+	<body>
+		<h1>My First Javascript</h1>
+	</body>
+	<script>
+		var num = parseInt(prompt("Enter the number"));
+		var value = num%5;
+		//var value = parseInt(Math.ceil(num/5))*5;
+		//alert(value)
+		
+		if(value == 0){
+			alert("nothing");
+		}
+		else if(value == 3){
+			var ans = num+2;
+			alert(ans);
+		}
+		else if(value <= 2){
+			var ans = num-value;
+			alert(ans);
+		}
+		else if(value >= 3){
+			var ans = num+1;
+			alert(ans);
+		}
+		else
+			alert("Program");	
+	</script>
+</html>

@@ -1,0 +1,12 @@
+class factorial{
+	public static void main(String args[]){
+		long limit = 20l;
+		long factorial = 1l;
+		for (long i = 1l; i <= limit; i++){
+			for (long factor = 2; factor <= i; factor++){
+				factorial *= factor;
+			}
+			System.out.println(i + "! is " + factorial);
+		}
+	}
+}

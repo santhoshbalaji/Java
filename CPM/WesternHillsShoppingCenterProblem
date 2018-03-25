@@ -1,0 +1,45 @@
+A
+Prepare Archtectural Drawing
+-
+5
+
+B
+Identify Potential new Clients
+-
+6
+
+C
+Develop prospectus
+A
+4
+
+D
+Select Contractors
+A
+3
+
+E
+Prepare Building Permit
+A
+1
+
+F
+Obtain Approval for Building Permit
+E
+4
+
+G
+Perform Construction
+D,F
+14
+
+H
+Finalize Contract with Tenants
+B,C
+12
+
+I
+Tenant Move in
+B,H
+2
+

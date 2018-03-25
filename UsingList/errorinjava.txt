@@ -1,0 +1,16 @@
+1.Naming your file incorrectly, then compiling.
+	*class trick is public,shoulld be declared in a file named Tricky.java
+2.Forgetting a keyword such as void or class
+	*invalid method declaration;return type required
+3.Forgetting a quotation mark "
+	*unclosed string literal
+	*';' expected
+	*reached the end of the parsing}
+4.Forgetting a parenthesis ( or )
+	*')' expected 
+5.Forgetting a dot .
+	*cannot find the symbol
+		symbol:method outprintln(string)
+		location:class system
+6.Using too many or too few braces { or }
+	*class,interface,or enum expected

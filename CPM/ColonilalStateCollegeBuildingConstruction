@@ -1,0 +1,40 @@
+A
+Survey building site
+-
+6
+
+B
+Develop initial Design
+-
+8
+
+C
+Obtain board appoval
+A,B
+12
+
+D
+Select Architect
+C
+4
+
+E
+Establish Budget
+C
+6
+
+F
+Finalize Design
+D,E
+15
+
+G
+Obtain Financing
+E
+12
+
+H
+Hire contractor
+F,G
+8
+

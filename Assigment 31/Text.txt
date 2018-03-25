@@ -1,0 +1,12 @@
+test@zu-07-34:~/santhoshbalaji/Zoho Docs/apache-tomcat-8.5.16/webapps/Santhosh/JAVA/my programs/Assigment 31$ java Question
+[ZUCH624, ZUCH630, ZUCH619, ZUCH632] [Santhosh, SuryaPrakash, Reshma, Mp3Vikki]
+{ZUCH619=Reshma, ZUCH624=Santhosh, ZUCH630=SuryaPrakash, ZUCH632=Mp3Vikki}
+test@zu-07-34:~/santhoshbalaji/Zoho Docs/apache-tomcat-8.5.16/webapps/Santhosh/JAVA/my programs/Assigment 31$ javac Question2.java
+test@zu-07-34:~/santhoshbalaji/Zoho Docs/apache-tomcat-8.5.16/webapps/Santhosh/JAVA/my programs/Assigment 31$ java Question
+[ZUCH624, ZUCH630, ZUCH619, ZUCH632, ZUCH630] [Santhosh, SuryaPrakash, Reshma, Mp3Vikki, SuryaPrakashs]
+{ZUCH619=Reshma, ZUCH624=Santhosh, ZUCH630=SuryaPrakashs, ZUCH632=Mp3Vikki}
+test@zu-07-34:~/santhoshbalaji/Zoho Docs/apache-tomcat-8.5.16/webapps/Santhosh/JAVA/my programs/Assigment 31$ javac Question2.java
+test@zu-07-34:~/santhoshbalaji/Zoho Docs/apache-tomcat-8.5.16/webapps/Santhosh/JAVA/my programs/Assigment 31$ java Question
+[ZUCH624, ZUCH630, ZUCH619, ZUCH632, ZUCH630] [Santhosh, SuryaPrakash, Reshma, Mp3Vikki, SuryaPrakash]
+{ZUCH619=Reshma, ZUCH624=Santhosh, ZUCH630=SuryaPrakash, ZUCH632=Mp3Vikki}
+test@zu-07-34:~/santhoshbalaji/Zoho Docs/apache-tomcat-8.5.16/webapps/Santhosh/JAVA/my programs/Assigment 31$

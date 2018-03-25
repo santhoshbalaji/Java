@@ -1,0 +1,5 @@
+Select all cities from India.	SAN	select * from city where CountryCode like "IND";
+Select the number of cities in each country.	SAN	select CountryCode , count(*) from city group by CountryCode order by count(*) desc;
+Give the top 5 cities w.r.t. population		SAN	select Name , Population from city order by Population desc limit 5;
+Select the country with maximum density (population/area)	SAN	select Name , (Population/SurfaceArea) as Density from country order by Density desc limit 1;
+Get the number of people in India living in villages.	SAN	select (Population-(select sum(Population) from city where CountryCode like "IND")) as Population from country where Code like "IND";
